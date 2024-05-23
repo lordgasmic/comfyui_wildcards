@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-wildcards"
+description = "Nodes:CLIPTextEncodeWithWildcards. This wildcard node is a wildcard node that operates based on the seed."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/lordgasmic/ComfyUI-Wildcards"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Wildcards"
+Icon = ""
