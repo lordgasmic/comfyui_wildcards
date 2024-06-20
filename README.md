@@ -12,7 +12,7 @@ This is an attempt to recreate the wildcards plugin for Automatic1111 but for Co
 1. In ComfyUI add the new wildcards node by doing one of the following:
    - right click > Add Node > conditioning > CLIPTextEncodeWithWildcards
    - double click > add search text for "wildcards" > CLIPTextEncodeWithWildcards
-1. Activate wildcards by adding the filename surrounded by doouble underscores to the prompt (eg. \_\_eyecolor__)
+1. Activate wildcards by adding the filename surrounded by double underscores to the prompt (eg. \_\_eyecolor__)
 1. You can use multiple wildcards if you choose (eg. \_\_eyecolor__, \_\_smile__)
 1. Wire the node up
 
