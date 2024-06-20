@@ -30,8 +30,8 @@ The wildcard node can generate its own seed.  This is useful if you want to recr
 ## Usage Screenshots
 ![](screenshots/select_node_rightclick.png)
 ![](screenshots/select_node_doubleclick.png)
-![](convert_seed_to_input.png)
-![](int_to_seed.png)
+![](screenshots/convert_seed_to_input.png)
+![](screenshots/int_to_seed.png)
 
 ## Known Issues
 - unlike the A1111 version, the wildcard that was picked does not get replaced in the png info
