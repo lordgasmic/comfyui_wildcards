@@ -5,7 +5,7 @@ This is an attempt to recreate the wildcards plugin for Automatic1111 but for Co
 ## Installation Instructions
 1. Clone this repository into your custom_nodes directory (eg. /path/to/ComfyUI/custom_nodes)
 1. Create a directory in the root of your ComfyUI install called "wildcards" (eg. /path/to/ComfyUI/wildcards)
-1. Add .txt files with the various wildcards (check here for examples) todo add link
+1. Add .txt files with the various wildcards ([check here for examples](https://github.com/lordgasmic/comfyui_wildcards/tree/7834d95bbd372e849b5e47c7b45103dc8d732603/examples)) todo add link
 1. Restart your ComfyUI application
 1. You should see that the custom node has been loaded successfully
 
