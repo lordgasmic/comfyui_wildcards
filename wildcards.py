@@ -3,7 +3,6 @@ import re
 
 import folder_paths
 
-
 class CLIPTextEncodeWithWildcards:
 
     def __init__(self):
