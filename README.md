@@ -1,4 +1,4 @@
-# ComfyUI-Wildcards
+# comfyui_wildcards
 
 This is an attempt to recreate the wildcards plugin for Automatic1111 but for ComfyUI.
 
