@@ -8,5 +8,7 @@ This is an attempt to recreate the wildcards plugin for Automatic1111 but for Co
 3. Add .txt files with the various wildcards (check here for examples) todo add link
 4. Restart your ComfyUI application
 
+## Usage Instructions
+
 ## Instalation Screenshots
 todo
